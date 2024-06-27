@@ -1,0 +1,147 @@
+[
+    {
+        "1": "Which is the only planet not named after Greek gods or goddesess?",
+        "2": "Which planet has supersonic winds",
+        "3": "Which is the oldest planet in the solar planet?",
+        "4": "Which planet rotates on its side?",
+        "5": "What is the name of the largest moon of Jupiter?",
+        "6": "Which planet is known as the Morning star?",
+        "7": "Which star is the Alpha Usra Minoris?",
+        "8": "Who was the third astronaut to walk on the moon?",
+        "9": "How many stars make up the Big dipper?",
+        "10": "Vesta is which type of celestial body?",
+        "11": "What is a highly magnetized rotating neuron star?",
+        "12": "How many constellations are there?",
+        "13": "Where is the coldest place in the universe?",
+        "14": "Which is the largest star in the universe?",
+        "15": "How many moons are there in the solar system?",
+        "16": "Uranus has been only been visited by what spacecraft?",
+        "17": "How long is one day on venus?",
+        "18": "Which is the biggest volcano on Mars?",
+        "19": "Which is the first artificial satelite?",
+        "20": "Who was the first man to enter space?"
+    },
+    {
+        "1": [
+            "a)Saturn",
+            "b)Earth",
+            "c)Neptune",
+            "d)Mercury"
+        ],
+        "2": [
+            "a)Neptune",
+            "b)Saturn",
+            "c)Jupiter",
+            "d)Mars"
+        ],
+        "3": [
+            "a)Neptune",
+            "b)Uranus",
+            "c)Jupiter",
+            "d)Saturn"
+        ],
+        "4": [
+            "a)Uranus",
+            "b)Saturn",
+            "c)Venus",
+            "d)Mars"
+        ],
+        "5": [
+            "a)Europa",
+            "b)Lo",
+            "c)Callisto",
+            "d)Ganymede"
+        ],
+        "6": [
+            "a)Mars",
+            "b)Earth",
+            "c)Venus",
+            "d)Jupiter"
+        ],
+        "7": [
+            "a)Polaris",
+            "b)Sirius",
+            "c)Altair",
+            "d)Rigel"
+        ],
+        "8": [
+            "a)Charles P.Conorad",
+            "b)Micheal Colin",
+            "c)Niel Arm Strong",
+            "d)Buz Aldrin"
+        ],
+        "9": [
+            "a)7",
+            "b)10",
+            "c)9",
+            "d)8"
+        ],
+        "10": [
+            "a)Meteroid",
+            "b)Astroid",
+            "c)Star",
+            "d)Planet"
+        ],
+        "11": [
+            "a)Neutral Star",
+            "b)Pulsar",
+            "c)Magnetars",
+            "d)Neutron Star"
+        ],
+        "12": [
+            "a)86",
+            "b)89",
+            "c)90",
+            "d)88"
+        ],
+        "13": [
+            "a)Boomerang Nebula",
+            "b)Lunar South Pole",
+            "c)Cat Eyes Nebula",
+            "d)Ring Nebula"
+        ],
+        "14": [
+            "a)Blue Gaint",
+            "b)Super Gaint",
+            "c)Red Gaint",
+            "d)Double Gaint"
+        ],
+        "15": [
+            "a)201",
+            "b)198",
+            "c)200",
+            "d)202"
+        ],
+        "16": [
+            "a)Voyager-2",
+            "b)Cartosat-2",
+            "c)RISAT-2",
+            "d)HySIS"
+        ],
+        "17": [
+            "a)301 days on Earth",
+            "b)245 days on Earth",
+            "c)116 days on Earth",
+            "d)243 days on Earth"
+        ],
+        "18": [
+            "a)Olumpus Mons",
+            "b)Ascraeus Mons",
+            "c)Pavonis Mons",
+            "d)Arsia Mons"
+        ],
+        "19": [
+            "a)GSAT-17",
+            "b)Microsat",
+            "c)IRNSS-1H",
+            "d)Sputnik"
+        ],
+        "20": [
+            "a)John Glenn",
+            "b)Yuri Gagarin",
+            "c)Jim Lovwll",
+            "d)Guion Bluford"
+        ]
+        
+    }
+]
